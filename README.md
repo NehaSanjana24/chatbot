@@ -1,4 +1,4 @@
-# Task 2: E-commerce FAQ Chatbot
+#E-commerce FAQ Chatbot
 
 A Python-based intelligent FAQ Chatbot designed to handle e-commerce customer support questions. This application uses Natural Language Processing (NLP) to preprocess text, calculates similarity scores using TF-IDF vectorization and Cosine Similarity, and provides an interactive web interface built with Streamlit.
 
