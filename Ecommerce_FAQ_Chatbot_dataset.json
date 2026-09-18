@@ -1,6 +1,10 @@
 {
   "questions": [
   {
+   "question": "Hi",
+   "answer": "Hello how can I help you."
+  },
+  {
   "question": "How can I create an account?",
   "answer": "To create an account, click on the 'Sign Up' button on the top right corner of our website and follow the instructions to complete the registration process."
   },
